@@ -28,3 +28,8 @@
 * * *
 ## 2. STEV.e
 **S**olar **T**racking **E**xploration **V**ehicles . **E**xpandable version
+### 1) Flow Chart
+<img src="https://user-images.githubusercontent.com/58382336/98515379-558eae00-22ae-11eb-9804-f0dc4c5a3bff.png"  width="700" height="370">
+
+### 2) Conneted Device
+<img src="https://user-images.githubusercontent.com/58382336/98515383-56bfdb00-22ae-11eb-85a6-94b91b72b8b6.png"  width="700" height="370">
