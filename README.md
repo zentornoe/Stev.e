@@ -5,8 +5,7 @@
 * * *
 ## 1. ARM_Codes
 
- MCU : STM32F103RB ( ARM Cortex 4 ) 
- Modularized Program Code
+ MCU : STM32F103RB ( ARM Cortex 4 ) , Modularized Program Code
 ### 1) main.c
   main program
 ### 2) Battery_ADC.c
