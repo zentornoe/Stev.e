@@ -78,13 +78,30 @@ Daeuk Kim
 #### Solar Charging System
 <img src="https://user-images.githubusercontent.com/58382336/98700307-6842d900-23bb-11eb-9c94-18f1635206c6.png"  width="700" height="370">
 
-<img src=""  width="700" height="370">
 
 ### 3) Video
 Click Image! ( Linked to YouTube )
 
 [![STEV.e](https://img.youtube.com/vi/2x-dOrIg4Pk/0.jpg)](https://youtu.be/2x-dOrIg4Pk) 
 
+
+### 4) Function
+It is easy for users to recognize and control Web GUI, which sends control signals from the server to the vehicle. 
+
+The vehicle recognizes the control signal and controls the vehicle and its internal modules.
+
+The internal module consists of a gimbal with an action cam attached, a solar panel with automatic solar tracking, and 4 DC motors which adjust the direction through speed differences, and use Buck Converter to reduce heat losses, and make solar charging and battery protection circuits PCB.
+
+And the vehicle sends signals to the server the current direction and speed of vehicle, and the angle of the gimbal and solar panels, and the server shows these on the Web GUI.
+
+Then, when the exploration vehicle returns, the 2D environmental map obtained by the LIDAR connected to the Raspberry Pi can be analyzed.
+
+All signals are communicated using RF modules. And the video of the action cam is always sent to the server, independent of the control of the ARM.
+
+
+| Control Signals (From Server to Vehicle) | Current State Signals (From Vehicle to Server) |
+|:---:|:---:|
+|Gimbal angle, Direction/Speed of Vehicle, Turn on/off Raspberry PI 3|Angle of Gimbal/Solar Panel, Battery power level, Tank Direction/Speed, state of Raspberry Pi 3 power| 
 * * *
 
 
