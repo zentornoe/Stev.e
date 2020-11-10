@@ -63,4 +63,28 @@ Daeuk Kim
 <img src="https://user-images.githubusercontent.com/58382336/98515379-558eae00-22ae-11eb-9804-f0dc4c5a3bff.png"  width="700" height="370">
 
 ### 2) Conneted Device
-<img src="https://user-images.githubusercontent.com/58382336/98515383-56bfdb00-22ae-11eb-85a6-94b91b72b8b6.png"  width="700" height="370">
+#### Diagram
+<img src="https://user-images.githubusercontent.com/58382336/98700006-126e3100-23bb-11eb-89cf-4b1badd93114.png"  width="700" height="382">
+
+#### RF Module 
+<img src="https://user-images.githubusercontent.com/58382336/98700440-86103e00-23bb-11eb-9d88-03f6216ec8ba.PNG"  width="350" height="180">
+
+#### LIDAR & Raspberry Pi
+<img src="https://user-images.githubusercontent.com/58382336/98700404-7d1f6c80-23bb-11eb-944c-37b6f734e429.PNG"  width="350" height="180">
+
+#### Gimbal
+<img src="https://user-images.githubusercontent.com/58382336/98700490-945e5a00-23bb-11eb-9c55-2fd1ac06e7e9.PNG"  width="350" height="180">
+
+#### Solar Charging System
+<img src="https://user-images.githubusercontent.com/58382336/98700307-6842d900-23bb-11eb-9c94-18f1635206c6.png"  width="700" height="370">
+
+<img src=""  width="700" height="370">
+
+### 3) Video
+Click Image! ( Linked to YouTube )
+
+[![STEV.e](https://img.youtube.com/vi/2x-dOrIg4Pk/0.jpg)](https://youtu.be/2x-dOrIg4Pk) 
+
+* * *
+
+
