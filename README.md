@@ -1,7 +1,7 @@
 # 2019 Hanium Contest ( STEV.e )
 
 
-2019 Hanium Contest
+2019 Hanium Contest ( 3 students )
 
 #### ● Machine design, ARM Coding(STM32F103RB - nucleo board), Solar Tracking part
 https://github.com/zentornoe/Stev.e  ( Me )
