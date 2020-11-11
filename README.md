@@ -104,4 +104,5 @@ All signals are communicated using RF modules. And the video of the action cam i
 |Gimbal angle, Direction/Speed of Vehicle, Turn on/off Raspberry PI 3|Angle of Gimbal/Solar Panel, Battery power level, Tank Direction/Speed, state of Raspberry Pi 3 power| 
 * * *
 
-
+### 5) Vision
+Modularity is the biggest feature, which makes it easy to expand the function. Conversely, it is possible to remove only functions that are not needed, which allows the user to select and operate only functions that are suitable for the environment to be explored.
